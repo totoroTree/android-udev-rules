@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb",SYSFS{idVendor}=="04eB",MODE="0666"
